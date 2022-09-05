@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://rowling.netlify.app"
+baseURL = "https://rowling.netlify.app/"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
