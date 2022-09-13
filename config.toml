@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://rowling.netlify.app/"
 languageCode = "en-us"
-title = "Forty"
+title = "Personal website for Jinying (Rowling) Luo"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = "Jinying Luo"
+  description = "Grew up in Zhejiang China. Pursued bachelor degree in The Chinese University of Hong Kong (Shenzhen), majoring in Statistics. Had visiting expeirence in UCB. Currently an LBS student"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -37,8 +37,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Rowling"
+    #subtitle = "By HTML5 Up"  ###
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -81,7 +81,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Forty"
+    title = "Hi, my name is Jinying (Rowling)"
     subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
     buttonText = "Get Started"
 
@@ -172,11 +172,11 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "jluo.mam2023@london.edu"
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    phone = "(44) 7536207729"
 
     [[params.contact.address]]
     title = "Address"
