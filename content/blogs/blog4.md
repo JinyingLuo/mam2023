@@ -13,13 +13,13 @@ draft: false
 
 My name is Jinying (Rowling) Luo. I grew up in Zhejiang China, pursued bachelor degree at The Chinese University of Hong Kong (Shenzhen), majoring in Statistics. I am currently an LBS student studying Analytics and Management. After graduation, I intend to work in Investment Banking in Hong Kong or London.
 
-My interests include:
+**My interests include:**
 
 1. Eating. Hope to eat the most delicious food all over the world.
 2. Rock climbing. I enjoy exciting sports to push my envelope and boost my sense of control and confidence
 3. Travelling. If you have travelling plan in Europe, please call me!!
 
-Five things in my life:
+**Five things in my life:**
 
 1. Over the years I keep the habit of weighing myself on the scales everyday so as to control my diet and monitor my training effect.
 2. My hometown Zhoushan is one of the four Buddhist sites. We seek the blessing of the Buddha whenever something important comes. This belief can relieve my anxiety to some extent.

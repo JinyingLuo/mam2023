@@ -104,13 +104,13 @@ disqusShortname = ""
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
-      title = "Academic Projects"
-      subtitle = "Projects on financial markets"
+      title = "Project in R"
+      subtitle = "Trading strategies design based on time series data"
       image = "pic03.jpg"
       url = "blogs/magna"
 
     [[params.tiles.showcase]]
-      title = "Travelling"
+      title = "Project in Python"
       subtitle = "Places I have been to"
       image = "pic04.jpg"
       url = "blogs/ipsum"
