@@ -1,8 +1,8 @@
 ---
-title: "Magna"
-description: "Lorem Etiam Nullam"
+title: "Academic Project"
+description: "This is my exploration in China's stock market"
 slug: "magna"
-image: pic09.jpg
+image: project.pdf
 keywords: ""
 categories: 
     - ""
