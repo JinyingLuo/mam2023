@@ -1,6 +1,6 @@
 ---
 title: "About me"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
+description: "My name is Jinying (Rowling) Luo. I grew up in Zhejiang China, pursued bachelor degree at The Chinese University of Hong Kong (Shenzhen), majoring in Statistics. I am currently an LBS student studying Analytics and Management. After graduation, I intend to work in Investment Banking in Hong Kong or London."
 slug: "aliquam"
 image: pic07.jpg
 keywords: ""

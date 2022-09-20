@@ -2,7 +2,7 @@
 title: "Travelling"
 description: ""
 slug: "ipsum"
-image: pic10.jpg
+image: pic15.jpg
 keywords: ""
 categories: 
     - ""

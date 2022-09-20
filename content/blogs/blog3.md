@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
+description: "I used to have internships focusing on the finance industry. My interest field is Investment Banking. Thus, I interned in CITIC and CICC both in investment banking division and participated in deals like two IPO project, M&A, and convertible bond issuance. Those are quite challenging but very exciting journeys for me!"
 slug: "tempus"
 image: pic08.jpg
 keywords: ""
