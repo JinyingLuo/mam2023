@@ -113,7 +113,7 @@ disqusShortname = ""
       title = "Event study in financial markets"
       subtitle = "Project in R"
       image = "pic04.jpg"
-      url = "blogs/EventStudy"
+      url = "blogs/EventStudy.pdf"
 
     [[params.tiles.showcase]]
       title = "Projects in data visualization"
