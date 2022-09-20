@@ -107,13 +107,13 @@ disqusShortname = ""
       title = "Trading strategies based on time series data"
       subtitle = "Project in R"
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "blogs/project.pdf"
 
     [[params.tiles.showcase]]
       title = "Event study in financial markets"
       subtitle = "Project in R"
       image = "pic04.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/EventStudy"
 
     [[params.tiles.showcase]]
       title = "Projects in data visualization"
